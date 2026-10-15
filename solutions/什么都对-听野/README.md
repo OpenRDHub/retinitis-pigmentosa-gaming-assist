@@ -15,6 +15,7 @@ repo: https://github.com/ld0574/SenseField
 | 项目 | 信息 |
 | --- | --- |
 | 团队 | 什么都对 |
+| 团队成员 | 乐达、高强、宋翔、黄佳玮 |
 | 方案 | 听野 · SenseField |
 | GitHub 维护账号 | [@ld0574](https://github.com/ld0574) |
 | 项目状态 | 测试中；已发布 Android 体验版，独立准确率、实际辅助收益及跨设备表现继续验证 |
@@ -31,9 +32,9 @@ repo: https://github.com/ld0574/SenseField
 | Android 安装包 | [sensefieldv0.4.7.apk](https://github.com/ld0574/SenseField/releases/download/v0.4.7/sensefieldv0.4.7.apk) |
 | 验证记录与待验证事项 | [当前验证状态](https://github.com/ld0574/SenseField/blob/main/validation/STATUS.md) |
 | 问题与试用反馈 | [GitHub Issues](https://github.com/ld0574/SenseField/issues) |
-| 魔搭 Demo | 待发布；发布后补充「Khub罕见病开源社区」组织下可公开访问的链接 |
+| 魔搭 Demo | [Khub罕见病开源社区 · 听野](https://www.modelscope.cn/studios/Khub/SenseField)，提供项目网页、交互示意与 APK 下载入口 |
 
-源代码在独立仓库持续维护，本目录提供方案说明、源码地址和试用入口。团队成员名单及魔搭 Demo 地址将在资料齐备后补充；本次方案登记不代表比赛全部提交事项已经完成。
+源代码在独立仓库持续维护，本目录提供方案说明、源码地址和试用入口。魔搭网页 Demo 可体验听野的交互示意并获取 Android 安装入口。
 
 ## 解决什么问题
 
@@ -76,7 +77,7 @@ Android 屏幕采集（MediaProjection，逐次授权）
 4. 在对应游戏内观察并体验提醒，所有交换、移动和其他游戏操作均由玩家完成。
 5. 结束后停止辅助。如遇错误提醒、没有提示或明显发热，可通过项目 Issues 反馈复现步骤；诊断材料应先去除个人信息，再通过团队认可的渠道提供。
 
-本项目需要真实 Android 设备与对应游戏，网站提供项目介绍和交互示意，APK 用于实际试用。魔搭公开 Demo 尚待发布，官网及 APK 链接不作为已经完成魔搭发布的证明。
+本项目需要真实 Android 设备与对应游戏。魔搭 Demo 与官网提供项目介绍、交互和声音示意，APK 用于实际试用；网页示意不替代 Android 上的真实屏幕识别与辅助。
 
 ## 从源码构建
 
