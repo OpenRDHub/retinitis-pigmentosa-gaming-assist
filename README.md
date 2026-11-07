@@ -101,7 +101,9 @@
 ## 🗂 方案总览
 
 <!-- SOLUTIONS_INDEX_START -->
-> 暂无提交方案。比赛提交请 Fork 本仓库并开 [「提交成果链接」Issue](../../issues/new/choose)；赛后共建方案见 [solutions/ 指南](solutions/README.md)
+| 团队 | 方案 | 状态 | 简介 | 仓库/Demo |
+|---|---|---|---|---|
+| 什么都对 | [听野 SenseField](https://github.com/ld0574/SenseField) | — | 视力障碍玩家的游戏辅助；[听野训练数据（约 12 GB）](https://www.modelscope.cn/datasets/Khub/SenseField-Training-Archive)。 | [项目链接](https://github.com/ld0574/SenseField) |
 <!-- SOLUTIONS_INDEX_END -->
 
 
